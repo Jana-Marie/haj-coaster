@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "coaster_midboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/coaster_midboard-rescue.kicad_sym")(options "")(descr ""))
+)

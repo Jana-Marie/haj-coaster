@@ -5,9 +5,14 @@ fp-info-cache
 *-bak
 *.step
 *.stp
+bom
+
 
 # fw
 build
 *.jdebug
 *.logicdata
 *.ioc
+
+# misc
+artwork

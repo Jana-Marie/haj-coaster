@@ -26,10 +26,10 @@ A sharky and colourful coaster glowing in pride for you~.
     </tr>
     <tr>
       <td>
-        <img src="images/b5.png"/>
+        <img src="images/b5.jpeg"/>
       </td>
       <td>
-        <img src="images/b4.png"/>
+        <img src="images/b4.jpeg"/>
       </td>
     </tr>
     <tr>

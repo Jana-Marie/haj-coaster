@@ -11,6 +11,7 @@ bom
 # fw
 build
 *.jdebug
+*.jdebug.user
 *.logicdata
 *.ioc
 

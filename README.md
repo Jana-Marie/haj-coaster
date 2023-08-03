@@ -8,7 +8,7 @@ A sharky and colourful coaster glowing in pride for you~.
   <tbody>
     <tr>
       <td colspan="2">
-        <img src="images/f.jpeg"/>
+        <img src="images/b1.jpeg"/>
       </td>
     </tr>
     <tr>
@@ -17,11 +17,6 @@ A sharky and colourful coaster glowing in pride for you~.
       </td>
       <td>
         <img src="images/2.png"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="images/b1.jpeg"/>
       </td>
     </tr>
     <tr>

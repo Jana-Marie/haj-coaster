@@ -1,6 +1,8 @@
 # haj-coaster
 
-A sharky and colourful coaster glowing in pride for you~. (a better and more sensible readme will follow in a bit :3)
+A sharky and colourful coaster glowing in pride for you~.
+
+(a better and more sensible readme will follow in a bit :3)
 
 <table>
   <tbody>

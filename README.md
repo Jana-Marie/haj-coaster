@@ -22,4 +22,5 @@ A sharky and colourful coaster glowing in pride for you~. (a better and more sen
 
 ---
 
-Thank you [かにあじ](https://void-aquarium.com/) for allowing me to use your fantastic artwork for this project! ありがとう~!
+Thank you [かにあじ](https://void-aquarium.com/) for allowing me to use your fantastic artwork for this project! ありがとうございます
+!

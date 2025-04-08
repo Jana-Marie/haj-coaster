@@ -43,5 +43,10 @@ There is also a NTC within the stack, I intended to change the sharks colour fro
 
 ---
 
+### Schematic
+
+(https://github.com/Jana-Marie/haj-coaster/blob/main/coaster_backboard/schematic.pdf)[schematic.pdf]
+
+---
+
 Thank you [かにあじ](https://void-aquarium.com/) for allowing me to use your fantastic artwork for this project! ありがとうございます!
-!
